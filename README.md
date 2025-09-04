@@ -26,6 +26,12 @@ A medical application built with the MERN stack.
    **Note: If you cannot clone the repository please download the zip**
    ```
 
+## Environment Variables
+
+1. Create a `.env` file in the root directory and add the following:
+     ```env
+     MONGO_URI=your_mongodb_connection_string
+
 ## Run the Backend
 
 1. Open a new terminal and Copy and Paste
@@ -44,3 +50,5 @@ A medical application built with the MERN stack.
    npm install
    npm start
    ```
+
+
