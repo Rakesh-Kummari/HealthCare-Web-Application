@@ -1,0 +1,4 @@
+client/node_modules/
+server/node_modules/
+gi.gitignoret add 
+git commit -m "Add node_modules to .gitignore"
